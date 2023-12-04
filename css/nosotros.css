@@ -1,0 +1,45 @@
+.juegos-sec, .juegos-cont{
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.proyectos-sec, .proyectos-cont{
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    margin-left: 12px;
+}
+
+main hr{
+    width: 90%;
+    height: 4px;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    margin: auto;
+}
+
+.contenedor-fnaf2{
+    margin-top: 18px;
+    width: 95vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.img-fnaf2{
+    margin-right: 12px;
+    width: 136px;
+    height: 76px;
+    margin-bottom: 16px;
+}

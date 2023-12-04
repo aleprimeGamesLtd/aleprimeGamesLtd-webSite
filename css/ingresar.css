@@ -1,0 +1,27 @@
+.ingreso-sec{
+    background-color: rgb(70, 70, 70);
+    margin-top: 134px;
+}
+
+.ingreso{
+    width: 100%;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 20%;
+}
+
+.ingreso-titulo{
+    margin-bottom: 20px;
+}
+
+.logo{
+    display:flex;
+    position: absolute;
+    margin-left: 530px;
+    border-radius: 25px;
+    margin-top: -300px;
+}
+
+h2, p{
+    color: white;
+}
